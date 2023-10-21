@@ -1,4 +1,23 @@
-### Hi there 👋
+# Thainá Nilo
+Oi! Bem-vindo(a) ao meu GitHub! 
+
+Sou Engenheira de Telecomunicações pela UPE e atualmente aluna de MBA em BI & Analytics no CIn-UFPE.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thain4nilo&theme=radical&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thainanilo/) 
+
+
+## Habilidades e Interesses
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thain4nilo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
 
 <!--
 **thain4nilo/thain4nilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
