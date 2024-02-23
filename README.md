@@ -1,8 +1,8 @@
 # Thainá Nilo
 
 Oi! Bem-vindo(a) ao meu GitHub 😄 
+Sou Engenheira de Telecomunicações formada pela UPE e aluna de MBA em BI & Analytics no CIn-UFPE.
 
-Sou Engenheira de Telecomunicações pela UPE e atualmente aluna de MBA em BI & Analytics no CIn-UFPE.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thainanilo/) 
