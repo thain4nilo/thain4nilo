@@ -14,9 +14,6 @@ Sou Engenheira de Telecomunicações pela UPE e atualmente aluna de MBA em BI & 
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thain4nilo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=thain4nilo&theme=radical&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 
