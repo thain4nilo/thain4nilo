@@ -10,13 +10,7 @@ Sou Engenheira de Telecomunicações formada pela UPE e aluna de MBA em BI & Ana
 
 
 ## Habilidades e Interesses
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-
-
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=thain4nilo&theme=radical&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
-
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![sqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
 
 <!--
